@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://SijingPu.github.io</id>
+    <title> (●ﾟωﾟ●)Piu Piu的小星球</title>
+    <updated>2022-09-12T22:12:55.279Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://SijingPu.github.io"/>
+    <link rel="self" href="https://SijingPu.github.io/atom.xml"/>
+    <subtitle>记录音乐作品及设计作品的星球，编号1024</subtitle>
+    <logo>https://SijingPu.github.io/images/avatar.png</logo>
+    <icon>https://SijingPu.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022,  (●ﾟωﾟ●)Piu Piu的小星球</rights>
+    <entry>
+        <title type="html"><![CDATA[游戏音效及配乐设计]]></title>
+        <id>https://SijingPu.github.io/post/you-xi-yin-xiao-ji-pei-le-she-ji/</id>
+        <link href="https://SijingPu.github.io/post/you-xi-yin-xiao-ji-pei-le-she-ji/">
+        </link>
+        <updated>2022-09-12T22:06:05.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[电吉他入门学习笔记（一）]]></title>
+        <id>https://SijingPu.github.io/post/dian-ji-ta-ru-men-xue-xi-bi-ji-yi/</id>
+        <link href="https://SijingPu.github.io/post/dian-ji-ta-ru-men-xue-xi-bi-ji-yi/">
+        </link>
+        <updated>2022-09-09T15:46:18.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gridea解决write EPIPE 问题]]></title>
+        <id>https://SijingPu.github.io/post/gridea-jie-jue-write-epipe-wen-ti/</id>
+        <link href="https://SijingPu.github.io/post/gridea-jie-jue-write-epipe-wen-ti/">
+        </link>
+        <updated>2022-09-05T20:24:25.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[部署valine/twikoo评论系统有感（暂未解决）]]></title>
+        <id>https://SijingPu.github.io/post/bu-shu-twikoo-ping-lun-xi-tong-you-gan/</id>
+        <link href="https://SijingPu.github.io/post/bu-shu-twikoo-ping-lun-xi-tong-you-gan/">
+        </link>
+        <updated>2022-09-05T18:50:17.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[论编曲意识和导演意识]]></title>
+        <id>https://SijingPu.github.io/post/lun-bian-qu-yi-shi-he-dao-yan-yi-shi/</id>
+        <link href="https://SijingPu.github.io/post/lun-bian-qu-yi-shi-he-dao-yan-yi-shi/">
+        </link>
+        <updated>2022-09-05T08:25:12.000Z</updated>
+        <summary type="html"><![CDATA[<p>编曲师其实和导演是一个性质的岗位，这是今天上完老师的课后领悟最深的一点</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>编曲师其实和导演是一个性质的岗位，这是今天上完老师的课后领悟最深的一点</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[音乐制作及混音合集]]></title>
+        <id>https://SijingPu.github.io/post/yin-le-chuang-zuo-he-ji/</id>
+        <link href="https://SijingPu.github.io/post/yin-le-chuang-zuo-he-ji/">
+        </link>
+        <updated>2022-09-04T07:18:23.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI创作：赛博场景作品]]></title>
+        <id>https://SijingPu.github.io/post/ai-chuang-zuo-sai-bo-chang-jing-zuo-pin/</id>
+        <link href="https://SijingPu.github.io/post/ai-chuang-zuo-sai-bo-chang-jing-zuo-pin/">
+        </link>
+        <updated>2022-09-04T07:08:16.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[视频配音配乐合集]]></title>
+        <id>https://SijingPu.github.io/post/shi-pin-pei-yin-pei-le-he-ji/</id>
+        <link href="https://SijingPu.github.io/post/shi-pin-pei-yin-pei-le-he-ji/">
+        </link>
+        <updated>2022-09-04T01:24:44.000Z</updated>
+        <summary type="html"><![CDATA[<p>抖音视频暂不支持上传，以下为B站合作视频内容</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>抖音视频暂不支持上传，以下为B站合作视频内容</p>
+]]></content>
+    </entry>
+</feed>
